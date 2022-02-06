@@ -1,0 +1,14 @@
+D:\Documents\adonnellan\My Documents\Coding Projects\practice\practice\bin\Debug\practice.exe.config
+D:\Documents\adonnellan\My Documents\Coding Projects\practice\practice\bin\Debug\practice.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\practice\practice\bin\Debug\practice.pdb
+D:\Documents\adonnellan\My Documents\Coding Projects\practice\practice\obj\Debug\practice.csprojResolveAssemblyReference.cache
+D:\Documents\adonnellan\My Documents\Coding Projects\practice\practice\obj\Debug\MainWindow.g.cs
+D:\Documents\adonnellan\My Documents\Coding Projects\practice\practice\obj\Debug\App.g.cs
+D:\Documents\adonnellan\My Documents\Coding Projects\practice\practice\obj\Debug\practice_MarkupCompile.cache
+D:\Documents\adonnellan\My Documents\Coding Projects\practice\practice\obj\Debug\practice_MarkupCompile.lref
+D:\Documents\adonnellan\My Documents\Coding Projects\practice\practice\obj\Debug\MainWindow.baml
+D:\Documents\adonnellan\My Documents\Coding Projects\practice\practice\obj\Debug\practice.g.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\practice\practice\obj\Debug\practice.Properties.Resources.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\practice\practice\obj\Debug\practice.csproj.GenerateResource.Cache
+D:\Documents\adonnellan\My Documents\Coding Projects\practice\practice\obj\Debug\practice.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\practice\practice\obj\Debug\practice.pdb

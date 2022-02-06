@@ -1,0 +1,5 @@
+D:\Documents\adonnellan\My Documents\Coding Projects\tetris\tetris\bin\Debug\tetris.exe.config
+D:\Documents\adonnellan\My Documents\Coding Projects\tetris\tetris\bin\Debug\tetris.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\tetris\tetris\bin\Debug\tetris.pdb
+D:\Documents\adonnellan\My Documents\Coding Projects\tetris\tetris\obj\Debug\tetris.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\tetris\tetris\obj\Debug\tetris.pdb

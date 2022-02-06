@@ -1,0 +1,9 @@
+D:\Archive\Coding Projects\Assignment\Sudoko\bin\Release\Sudoko.exe.config
+D:\Archive\Coding Projects\Assignment\Sudoko\bin\Release\Sudoko.exe
+D:\Archive\Coding Projects\Assignment\Sudoko\bin\Release\Sudoko.pdb
+D:\Archive\Coding Projects\Assignment\Sudoko\obj\Release\Sudoko.csprojResolveAssemblyReference.cache
+D:\Archive\Coding Projects\Assignment\Sudoko\obj\Release\Sudoko.Form1.resources
+D:\Archive\Coding Projects\Assignment\Sudoko\obj\Release\Sudoko.Properties.Resources.resources
+D:\Archive\Coding Projects\Assignment\Sudoko\obj\Release\Sudoko.csproj.GenerateResource.Cache
+D:\Archive\Coding Projects\Assignment\Sudoko\obj\Release\Sudoko.exe
+D:\Archive\Coding Projects\Assignment\Sudoko\obj\Release\Sudoko.pdb

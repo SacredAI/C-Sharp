@@ -1,0 +1,9 @@
+D:\Documents\adonnellan\My Documents\Coding Projects\dynamic\dynamic\bin\Debug\dynamic.exe.config
+D:\Documents\adonnellan\My Documents\Coding Projects\dynamic\dynamic\bin\Debug\dynamic.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\dynamic\dynamic\bin\Debug\dynamic.pdb
+D:\Documents\adonnellan\My Documents\Coding Projects\dynamic\dynamic\obj\Debug\dynamic.csprojResolveAssemblyReference.cache
+D:\Documents\adonnellan\My Documents\Coding Projects\dynamic\dynamic\obj\Debug\dynamic.Form1.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\dynamic\dynamic\obj\Debug\dynamic.Properties.Resources.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\dynamic\dynamic\obj\Debug\dynamic.csproj.GenerateResource.Cache
+D:\Documents\adonnellan\My Documents\Coding Projects\dynamic\dynamic\obj\Debug\dynamic.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\dynamic\dynamic\obj\Debug\dynamic.pdb

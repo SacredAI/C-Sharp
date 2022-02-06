@@ -1,0 +1,9 @@
+D:\Documents\adonnellan\My Documents\Coding Projects\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.exe.config
+D:\Documents\adonnellan\My Documents\Coding Projects\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.pdb
+D:\Documents\adonnellan\My Documents\Coding Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.csprojResolveAssemblyReference.cache
+D:\Documents\adonnellan\My Documents\Coding Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.Form1.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.Properties.Resources.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.csproj.GenerateResource.Cache
+D:\Documents\adonnellan\My Documents\Coding Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.pdb

@@ -1,0 +1,6 @@
+D:\Documents\adonnellan\My Documents\Coding Projects\Zork\Zork\bin\Debug\Zork.exe.config
+D:\Documents\adonnellan\My Documents\Coding Projects\Zork\Zork\bin\Debug\Zork.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\Zork\Zork\bin\Debug\Zork.pdb
+D:\Documents\adonnellan\My Documents\Coding Projects\Zork\Zork\obj\Debug\Zork.csprojResolveAssemblyReference.cache
+D:\Documents\adonnellan\My Documents\Coding Projects\Zork\Zork\obj\Debug\Zork.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\Zork\Zork\obj\Debug\Zork.pdb

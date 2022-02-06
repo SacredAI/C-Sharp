@@ -1,0 +1,22 @@
+D:\Documents\adonnellan\My Documents\Coding Projects\Assignment\Assignment\bin\Debug\Assignment.exe.config
+D:\Documents\adonnellan\My Documents\Coding Projects\Assignment\Assignment\bin\Debug\Assignment.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\Assignment\Assignment\bin\Debug\Assignment.pdb
+D:\Documents\adonnellan\My Documents\Coding Projects\Assignment\Assignment\obj\Debug\Assignment.Form_Main.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+D:\Documents\adonnellan\My Documents\Coding Projects\Assignment\Assignment\obj\Debug\Assignment.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\Assignment\Assignment\obj\Debug\Assignment.pdb
+D:\Documents\adonnellan\My Documents\Coding Projects\Assignment\Assignment\obj\Debug\Assignment.RockPaperScissors.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\Assignment\Assignment\obj\Debug\Assignment.BlackJack.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+D:\Archive\Coding Projects\Assignment\Assignment\bin\Debug\Assignment.exe.config
+D:\Archive\Coding Projects\Assignment\Assignment\obj\Debug\Assignment.exe
+D:\Archive\Coding Projects\Assignment\Assignment\obj\Debug\Assignment.pdb
+D:\Archive\Coding Projects\Assignment\Assignment\bin\Debug\Assignment.exe
+D:\Archive\Coding Projects\Assignment\Assignment\bin\Debug\Assignment.pdb
+D:\Archive\Coding Projects\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+D:\Archive\Coding Projects\Assignment\Assignment\obj\Debug\Assignment.BlackJack.resources
+D:\Archive\Coding Projects\Assignment\Assignment\obj\Debug\Assignment.Form_Main.resources
+D:\Archive\Coding Projects\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+D:\Archive\Coding Projects\Assignment\Assignment\obj\Debug\Assignment.RockPaperScissors.resources
+D:\Archive\Coding Projects\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache

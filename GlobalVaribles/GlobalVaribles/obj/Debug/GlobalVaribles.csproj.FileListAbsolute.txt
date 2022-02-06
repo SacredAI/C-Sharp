@@ -1,0 +1,9 @@
+D:\Documents\adonnellan\My Documents\Coding Projects\GlobalVaribles\GlobalVaribles\bin\Debug\GlobalVaribles.exe.config
+D:\Documents\adonnellan\My Documents\Coding Projects\GlobalVaribles\GlobalVaribles\bin\Debug\GlobalVaribles.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\GlobalVaribles\GlobalVaribles\bin\Debug\GlobalVaribles.pdb
+D:\Documents\adonnellan\My Documents\Coding Projects\GlobalVaribles\GlobalVaribles\obj\Debug\GlobalVaribles.csprojResolveAssemblyReference.cache
+D:\Documents\adonnellan\My Documents\Coding Projects\GlobalVaribles\GlobalVaribles\obj\Debug\GlobalVaribles.Form1.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\GlobalVaribles\GlobalVaribles\obj\Debug\GlobalVaribles.Properties.Resources.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\GlobalVaribles\GlobalVaribles\obj\Debug\GlobalVaribles.csproj.GenerateResource.Cache
+D:\Documents\adonnellan\My Documents\Coding Projects\GlobalVaribles\GlobalVaribles\obj\Debug\GlobalVaribles.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\GlobalVaribles\GlobalVaribles\obj\Debug\GlobalVaribles.pdb

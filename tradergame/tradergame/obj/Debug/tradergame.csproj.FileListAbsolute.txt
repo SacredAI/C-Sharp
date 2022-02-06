@@ -1,0 +1,9 @@
+D:\Documents\adonnellan\My Documents\Coding Projects\tradergame\tradergame\bin\Debug\tradergame.exe.config
+D:\Documents\adonnellan\My Documents\Coding Projects\tradergame\tradergame\bin\Debug\tradergame.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\tradergame\tradergame\bin\Debug\tradergame.pdb
+D:\Documents\adonnellan\My Documents\Coding Projects\tradergame\tradergame\obj\Debug\tradergame.csprojResolveAssemblyReference.cache
+D:\Documents\adonnellan\My Documents\Coding Projects\tradergame\tradergame\obj\Debug\tradergame.Form1.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\tradergame\tradergame\obj\Debug\tradergame.Properties.Resources.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\tradergame\tradergame\obj\Debug\tradergame.csproj.GenerateResource.Cache
+D:\Documents\adonnellan\My Documents\Coding Projects\tradergame\tradergame\obj\Debug\tradergame.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\tradergame\tradergame\obj\Debug\tradergame.pdb

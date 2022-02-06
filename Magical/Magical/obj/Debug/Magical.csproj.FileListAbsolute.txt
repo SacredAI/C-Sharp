@@ -1,0 +1,8 @@
+D:\Documents\adonnellan\My Documents\Coding Projects\Magical\Magical\bin\Debug\Magical.exe.config
+D:\Documents\adonnellan\My Documents\Coding Projects\Magical\Magical\bin\Debug\Magical.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\Magical\Magical\bin\Debug\Magical.pdb
+D:\Documents\adonnellan\My Documents\Coding Projects\Magical\Magical\obj\Debug\Magical.Form1.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\Magical\Magical\obj\Debug\Magical.Properties.Resources.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\Magical\Magical\obj\Debug\Magical.csproj.GenerateResource.Cache
+D:\Documents\adonnellan\My Documents\Coding Projects\Magical\Magical\obj\Debug\Magical.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\Magical\Magical\obj\Debug\Magical.pdb

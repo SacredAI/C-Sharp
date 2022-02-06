@@ -1,0 +1,8 @@
+D:\Documents\adonnellan\My Documents\Coding Projects\enabled\enabled\bin\Debug\enabled.exe.config
+D:\Documents\adonnellan\My Documents\Coding Projects\enabled\enabled\bin\Debug\enabled.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\enabled\enabled\bin\Debug\enabled.pdb
+D:\Documents\adonnellan\My Documents\Coding Projects\enabled\enabled\obj\Debug\enabled.Form1.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\enabled\enabled\obj\Debug\enabled.Properties.Resources.resources
+D:\Documents\adonnellan\My Documents\Coding Projects\enabled\enabled\obj\Debug\enabled.csproj.GenerateResource.Cache
+D:\Documents\adonnellan\My Documents\Coding Projects\enabled\enabled\obj\Debug\enabled.exe
+D:\Documents\adonnellan\My Documents\Coding Projects\enabled\enabled\obj\Debug\enabled.pdb
